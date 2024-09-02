@@ -1,0 +1,87 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Heap_operations",
+      "request": "launch",
+      "mainClass": "Heap_operations",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Top_view_of_a_tree",
+      "request": "launch",
+      "mainClass": "Top_view_of_a_tree",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Queue_stack1",
+      "request": "launch",
+      "mainClass": "Queue_stack1",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Stack_LL$Stack",
+      "request": "launch",
+      "mainClass": "Stack_LL$Stack",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Stack_LL",
+      "request": "launch",
+      "mainClass": "Stack_LL",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Stack_AL$Stack",
+      "request": "launch",
+      "mainClass": "Stack_AL$Stack",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Linked_list_two",
+      "request": "launch",
+      "mainClass": "Linked_list_two",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Launch vowels_instring",
+      "request": "launch",
+      "mainClass": "vowels_instring",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "type": "java",
+      "name": "Launch String_compress",
+      "request": "launch",
+      "mainClass": "String_compress",
+      "projectName": "java codes_23cb053b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/java/java codes",
+      "program": "e:/java/java codes/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
